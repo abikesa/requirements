@@ -111,5 +111,11 @@ myst-parser<3
 pydata-sphinx-theme>=0.15.2
 networkx>=3.0
 ghp-import>=2.1.0
+pyyaml
+jinja2
+typer
+rich
+tqdm
+flask
 
 
